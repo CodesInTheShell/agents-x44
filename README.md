@@ -1,7 +1,7 @@
 ![agents-x44 banner](assets/agents-x44-agent-workspace.png)
 
 # agents-x44
-A collection of agents md for agentic ai tools.
+A collection of agents md for agentic ai tools such as Claude Code and Codex.
 
 ## Usage
 
